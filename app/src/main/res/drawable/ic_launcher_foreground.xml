@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Central Neural Intelligence Core -->
+    <path
+        android:fillColor="#00E6FF"
+        android:pathData="M54,34 C43,34 34,43 34,54 C34,65 43,74 54,74 C65,74 74,65 74,54 C74,43 65,34 54,34 Z" />
+    
+    <!-- Emotional Balance Pulse Bridge -->
+    <path
+        android:fillColor="#FF2A6D"
+        android:pathData="M54,42 C47.37,42 42,47.37 42,54 C42,60.63 47.37,66 54,66 C60.63,66 66,60.63 66,54 C66,47.37 60.63,42 54,42 Z" />
+
+    <!-- Core High Brightness Focus -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,48 C50.68,48 48,50.68 48,54 C48,57.32 50.68,60 54,60 C57.32,60 60,57.32 60,54 C60,50.68 57.32,48 54,48 Z" />
+
+    <!-- Waveform Emotional Antennas (Left Positive, Right High Sensitivity) -->
+    <path
+        android:fillColor="#05D9E8"
+        android:pathData="M24,54 L30,54 L27,51 Z" />
+    <path
+        android:fillColor="#FF2A6D"
+        android:pathData="M84,54 L78,54 L81,57 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "EmotionAI Pro",
+  "description": "Enterprise-grade Text Emotion Analytics & Mental Wellness Insights built on top-tier NLP and Explainable AI reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

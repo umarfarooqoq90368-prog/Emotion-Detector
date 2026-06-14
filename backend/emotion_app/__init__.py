@@ -1,0 +1,1 @@
+# Emotion app package definition
